@@ -1,0 +1,7 @@
+x = input ('Digite sua idade ')
+print ('É um número? ', x.isnumeric())
+print ('É alphanumérico? ', x.isalnum())
+print ('Tem somente letras? ', x.isalpha())
+print ('Tem somente letras minúsculas? ', x.islower())
+print ('Tem somente letras maiúsculas? ', x.isupper())
+print ('Só tem espaços? ', x.isspace())
