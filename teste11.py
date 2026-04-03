@@ -1,0 +1,3 @@
+'''Emojis'''
+
+print ('Olá, mundo!🌎')
