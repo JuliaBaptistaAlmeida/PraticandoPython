@@ -1,2 +1,2 @@
 # Praticando-Python
-Exercícios que fiz durante o aprendizado do curso em vídeo
+Exercícios feitos durante o curso de Python Completo do Curso em Vídeo.
